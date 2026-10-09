@@ -1,0 +1,126 @@
+[012C:0130][2026-10-09T17:23:17]i001: Burn v3.14.0.5722, Windows v10.0 (Build 19043: Service Pack 0), path: C:\users\user\AppData\Local\Temp\{DB13B8E3-FC23-43D0-BA3E-945611ED31B9}\.cr\python-3.11.9-amd64.exe
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'ActionLikeInstalling' to value 'Installing'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'ActionLikeInstallation' to value 'Setup'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'ShortVersion' to value '3.11'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'ShortVersionNoDot' to value '311'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'WinVer' to value '3.11'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'WinVerNoDot' to value '311'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'InstallAllUsers' to value '0'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'InstallLauncherAllUsers' to value '-1'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'TargetDir' to value ''
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'DefaultAllUsersTargetDir' to value '[ProgramFiles64Folder]Python[WinVerNoDot]'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'TargetPlatform' to value 'x64'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'DefaultJustForMeTargetDir' to value '[LocalAppDataFolder]Programs\Python\Python[WinVerNoDot]'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'OptionalFeaturesRegistryKey' to value 'Software\Python\PythonCore\[WinVer]\InstalledFeatures'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'TargetDirRegistryKey' to value 'Software\Python\PythonCore\[WinVer]\InstallPath'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'DefaultCustomTargetDir' to value ''
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'InstallAllUsersState' to value 'enabled'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'InstallLauncherAllUsersState' to value 'enabled'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'CustomInstallLauncherAllUsersState' to value '[InstallLauncherAllUsersState]'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'TargetDirState' to value 'enabled'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'CustomBrowseButtonState' to value 'enabled'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'Include_core' to value '1'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'Include_exe' to value '1'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'Include_dev' to value '1'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'Include_lib' to value '1'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'Include_test' to value '1'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'Include_doc' to value '1'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'Include_tools' to value '1'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'Include_tcltk' to value '1'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'Include_pip' to value '1'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'Include_launcher' to value '-1'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'Include_launcherState' to value 'enabled'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'Include_symbols' to value '0'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'Include_debug' to value '0'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'LauncherOnly' to value '0'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'BlockedLauncher' to value '0'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'DetectedLauncher' to value '0'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'DetectedOldLauncher' to value '0'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'AssociateFiles' to value '-1'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'Shortcuts' to value '1'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'PrependPath' to value '0'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'AppendPath' to value '0'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'CompileAll' to value '0'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing numeric variable 'SimpleInstall' to value '0'
+[012C:0130][2026-10-09T17:23:17]i000: Initializing string variable 'SimpleInstallDescription' to value ''
+[012C:0130][2026-10-09T17:23:17]i009: Command Line: '-burn.clean.room=Z:\home\user\winbuild\python-3.11.9-amd64.exe -burn.filehandle.attached=148 -burn.filehandle.self=152 /quiet InstallAllUsers=0 Include_test=0 Shortcuts=0 /log Z:homeuserwinbuildpy_install.log'
+[012C:0130][2026-10-09T17:23:17]i000: Setting string variable 'WixBundleOriginalSource' to value 'Z:\home\user\winbuild\python-3.11.9-amd64.exe'
+[012C:0130][2026-10-09T17:23:17]i000: Setting string variable 'WixBundleOriginalSourceFolder' to value 'Z:\home\user\winbuild\'
+[012C:0130][2026-10-09T17:23:17]i000: Setting string variable 'WixBundleLog' to value 'Z:homeuserwinbuildpy_install.log'
+[012C:0138][2026-10-09T17:23:17]e000: Error 0x80070578: Failed to create window.
+[012C:0130][2026-10-09T17:23:17]i000: Setting string variable 'WixBundleName' to value 'Python 3.11.9 (64-bit)'
+[012C:0130][2026-10-09T17:23:17]i000: Setting string variable 'WixBundleManufacturer' to value 'Python Software Foundation'
+[012C:0130][2026-10-09T17:23:17]i000: Setting numeric variable 'CRTInstalled' to value 1
+[012C:013C][2026-10-09T17:23:17]i000: Did not find Z:\home\user\winbuild\unattend.xml
+[012C:013C][2026-10-09T17:23:17]i000: Setting numeric variable 'InstallAllUsers' to value 0
+[012C:013C][2026-10-09T17:23:17]i000: Setting numeric variable 'Include_test' to value 0
+[012C:013C][2026-10-09T17:23:17]i000: Setting numeric variable 'Shortcuts' to value 0
+[012C:013C][2026-10-09T17:23:17]i000: Setting string variable 'ActionLikeInstalling' to value 'Installing'
+[012C:013C][2026-10-09T17:23:17]i000: Setting string variable 'ActionLikeInstallation' to value 'Setup'
+[012C:013C][2026-10-09T17:23:17]i000: Setting version variable 'WixBundleFileVersion' to value '3.11.9150.0'
+[012C:013C][2026-10-09T17:23:17]e000: Error 0x80070578: Failed to load theme controls.
+[012C:013C][2026-10-09T17:23:17]e000: Error 0x80070578: Failed to create main window.
+[012C:0130][2026-10-09T17:23:17]i500: Shutting down, exit code: 0x578
+[012C:0130][2026-10-09T17:23:17]i410: Variable: ActionLikeInstallation = Setup
+[012C:0130][2026-10-09T17:23:17]i410: Variable: ActionLikeInstalling = Installing
+[012C:0130][2026-10-09T17:23:17]i410: Variable: AppendPath = 0
+[012C:0130][2026-10-09T17:23:17]i410: Variable: AssociateFiles = -1
+[012C:0130][2026-10-09T17:23:17]i410: Variable: BlockedLauncher = 0
+[012C:0130][2026-10-09T17:23:17]i410: Variable: CompileAll = 0
+[012C:0130][2026-10-09T17:23:17]i410: Variable: CRTInstalled = 1
+[012C:0130][2026-10-09T17:23:17]i410: Variable: CustomBrowseButtonState = enabled
+[012C:0130][2026-10-09T17:23:17]i410: Variable: CustomInstallLauncherAllUsersState = enabled
+[012C:0130][2026-10-09T17:23:17]i410: Variable: DefaultAllUsersTargetDir = C:\Program Files\Python311
+[012C:0130][2026-10-09T17:23:17]i410: Variable: DefaultCustomTargetDir = 
+[012C:0130][2026-10-09T17:23:17]i410: Variable: DefaultJustForMeTargetDir = C:\users\user\AppData\Local\Programs\Python\Python311
+[012C:0130][2026-10-09T17:23:17]i410: Variable: DetectedLauncher = 0
+[012C:0130][2026-10-09T17:23:17]i410: Variable: DetectedOldLauncher = 0
+[012C:0130][2026-10-09T17:23:17]i410: Variable: Include_core = 1
+[012C:0130][2026-10-09T17:23:17]i410: Variable: Include_debug = 0
+[012C:0130][2026-10-09T17:23:17]i410: Variable: Include_dev = 1
+[012C:0130][2026-10-09T17:23:17]i410: Variable: Include_doc = 1
+[012C:0130][2026-10-09T17:23:17]i410: Variable: Include_exe = 1
+[012C:0130][2026-10-09T17:23:17]i410: Variable: Include_launcher = -1
+[012C:0130][2026-10-09T17:23:17]i410: Variable: Include_launcherState = enabled
+[012C:0130][2026-10-09T17:23:17]i410: Variable: Include_lib = 1
+[012C:0130][2026-10-09T17:23:17]i410: Variable: Include_pip = 1
+[012C:0130][2026-10-09T17:23:17]i410: Variable: Include_symbols = 0
+[012C:0130][2026-10-09T17:23:17]i410: Variable: Include_tcltk = 1
+[012C:0130][2026-10-09T17:23:17]i410: Variable: Include_test = 0
+[012C:0130][2026-10-09T17:23:17]i410: Variable: Include_tools = 1
+[012C:0130][2026-10-09T17:23:17]i410: Variable: InstallAllUsers = 0
+[012C:0130][2026-10-09T17:23:17]i410: Variable: InstallAllUsersState = enabled
+[012C:0130][2026-10-09T17:23:17]i410: Variable: InstallLauncherAllUsers = -1
+[012C:0130][2026-10-09T17:23:17]i410: Variable: InstallLauncherAllUsersState = enabled
+[012C:0130][2026-10-09T17:23:17]i410: Variable: LauncherOnly = 0
+[012C:0130][2026-10-09T17:23:17]i410: Variable: LocalAppDataFolder = C:\users\user\AppData\Local\
+[012C:0130][2026-10-09T17:23:17]i410: Variable: OptionalFeaturesRegistryKey = Software\Python\PythonCore\3.11\InstalledFeatures
+[012C:0130][2026-10-09T17:23:17]i410: Variable: PrependPath = 0
+[012C:0130][2026-10-09T17:23:17]i410: Variable: ProgramFiles64Folder = C:\Program Files\
+[012C:0130][2026-10-09T17:23:17]i410: Variable: Shortcuts = 0
+[012C:0130][2026-10-09T17:23:17]i410: Variable: ShortVersion = 3.11
+[012C:0130][2026-10-09T17:23:17]i410: Variable: ShortVersionNoDot = 311
+[012C:0130][2026-10-09T17:23:17]i410: Variable: SimpleInstall = 0
+[012C:0130][2026-10-09T17:23:17]i410: Variable: SimpleInstallDescription = 
+[012C:0130][2026-10-09T17:23:17]i410: Variable: TargetDir = 
+[012C:0130][2026-10-09T17:23:17]i410: Variable: TargetDirRegistryKey = Software\Python\PythonCore\3.11\InstallPath
+[012C:0130][2026-10-09T17:23:17]i410: Variable: TargetDirState = enabled
+[012C:0130][2026-10-09T17:23:17]i410: Variable: TargetPlatform = x64
+[012C:0130][2026-10-09T17:23:17]i410: Variable: WinVer = 3.11
+[012C:0130][2026-10-09T17:23:17]i410: Variable: WinVerNoDot = 311
+[012C:0130][2026-10-09T17:23:17]i410: Variable: WixBundleAction = 5
+[012C:0130][2026-10-09T17:23:17]i410: Variable: WixBundleElevated = 0
+[012C:0130][2026-10-09T17:23:17]i410: Variable: WixBundleFileVersion = 3.11.9150.0
+[012C:0130][2026-10-09T17:23:17]i410: Variable: WixBundleInstalled = 0
+[012C:0130][2026-10-09T17:23:17]i410: Variable: WixBundleLog = Z:homeuserwinbuildpy_install.log
+[012C:0130][2026-10-09T17:23:17]i410: Variable: WixBundleManufacturer = Python Software Foundation
+[012C:0130][2026-10-09T17:23:17]i410: Variable: WixBundleName = Python 3.11.9 (64-bit)
+[012C:0130][2026-10-09T17:23:17]i410: Variable: WixBundleOriginalSource = Z:\home\user\winbuild\python-3.11.9-amd64.exe
+[012C:0130][2026-10-09T17:23:17]i410: Variable: WixBundleOriginalSourceFolder = Z:\home\user\winbuild\
+[012C:0130][2026-10-09T17:23:17]i410: Variable: WixBundleProviderKey = CPython-3.11
+[012C:0130][2026-10-09T17:23:17]i410: Variable: WixBundleSourceProcessFolder = Z:\home\user\winbuild\
+[012C:0130][2026-10-09T17:23:17]i410: Variable: WixBundleSourceProcessPath = Z:\home\user\winbuild\python-3.11.9-amd64.exe
+[012C:0130][2026-10-09T17:23:17]i410: Variable: WixBundleTag = 
+[012C:0130][2026-10-09T17:23:17]i410: Variable: WixBundleUILevel = 2
+[012C:0130][2026-10-09T17:23:17]i410: Variable: WixBundleVersion = 3.11.9150.0
+[012C:0130][2026-10-09T17:23:17]i007: Exit code: 0x578, restarting: No

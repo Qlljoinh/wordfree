@@ -1,0 +1,7 @@
+python-docx>=1.1
+pyspellchecker>=0.7
+spylls>=0.1.7
+Pillow>=10.0
+reportlab>=4.0
+language_tool_python>=2.7
+pyinstaller>=6.0
